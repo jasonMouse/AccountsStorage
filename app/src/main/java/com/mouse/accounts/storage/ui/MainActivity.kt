@@ -1,7 +1,8 @@
-package com.mouse.accounts.storage
+package com.mouse.accounts.storage.ui
 
 import android.os.Bundle
 import android.support.v7.app.AppCompatActivity
+import com.mouse.accounts.storage.R
 
 class MainActivity : AppCompatActivity() {
 
